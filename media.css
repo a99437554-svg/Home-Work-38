@@ -1,0 +1,133 @@
+@media(max-width:768px) {
+    *{
+        margin: 0;
+    }
+    .div2{
+        display: none;
+    }
+    .div3{
+        display: none;
+    }
+    .div1{
+        margin: 0;
+    }
+    .img1{
+        display: none;
+    }
+    .div22{
+        font-size: 20px;
+        gap: 100px;
+    }
+    .div5{
+        display: flex;
+        flex-direction: column;
+        margin-left: -100px;
+    }
+    .img111{
+        width: 200px;
+    }
+    .p111{
+        display: none;
+    }
+    .p1{
+        width: 300px;
+        margin-left: 130px;
+        text-align: center;
+    }
+    .div6{
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        text-align: start;
+    }
+    .div11{
+        display: flex;
+        flex-direction: column;
+        padding: 10px;
+        text-align: start;
+    }
+    .div7{
+        display: flex;
+        flex-direction: column;
+        text-align: start;
+        padding-left: 10px;
+    }
+    .div8{
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+    }
+    .p3{
+        padding-left: 10px;
+    }
+    .div9{
+        padding: 10px;
+    }
+    .div10{
+        padding: 10px;
+    }
+    .p4{
+        margin-left: 10px;
+        width: 370px;
+    }
+    .div12{
+        margin-left: 10px;
+    }
+    .div15{
+        display: none;
+    }
+    .div17{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+    }
+    .div16{
+        width: 350px;
+    }
+    .div18{
+        width: 350px;
+    }
+    .div19{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+    }
+    .div20{
+        display: flex;
+        flex-direction: column;
+    }
+    .img7{
+        width: 400px;
+    }
+    .img8{
+        width: 400px;
+    }
+    .div21{
+        display: flex;
+        flex-direction: column;
+        padding-left: 10px;
+    }
+    .img9{
+        margin-left: -50px;
+    }
+    .div24{
+        margin-left: 10px;
+        gap: 5px;
+    }
+    .div25{
+        display: none;
+    }
+    .div28{
+        display: flex;
+        flex-direction: column;
+        margin-left: 10px;
+    }
+    .img12{
+        display: none;
+    }
+    .div32{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
